@@ -1,0 +1,54 @@
+﻿product_string;manufacturer_string;vendor_id;product_id;version_number;Identified name;lag
+Controller (MAGIC-NS);;0x0079;0x18D3;0x0000;Nintendo Switch controller adapter;
+SteelSeries Stratus XL;SteelSeries;0x0111;0x1419;0x0000;SteelSeries Stratus XL (bluetooth);21.27501981
+Controller (eSwap PRO Controller);;0x044F;0xD00E;0x0000;Thrustmaster eSwap PRO Controller;7.38136
+Controller (8BitDo Receiver);;0x045E;0x028E;0x0000;8BitDo (self-made?);
+Controller (GAME FOR WINDOWS >);;0x045E;0x028E;0x0000;Unknown Xbox 360 version (potentially not original);
+Controller (GAMEPAD);;0x045E;0x028E;0x0000;Likely an imitating Xbox 360 controller/software;
+Controller (Gioteck X360 Controller);;0x045E;0x028E;0x0000;Gioteck X360 Controller;
+Controller (SL-6566);;0x045E;0x028E;0x0000;Speedlink XEOX PRO ANALOG GAMEPAD;
+Controller (XBOX 360 For Windows);;0x045E;0x028E;0x0000;Microsoft Xbox 360 Controller for Windows or any impersonating ones;8.368344723
+Controller (XBOX 360 For Windows);;0x045E;0x02A1;0x0000;Xbox 360 Wireless Controller for Windows;11.41486276
+Controller (Xbox 360 Wireless Receiver for Windows);;0x045E;0x02A1;0x0000;Microsoft Xbox 360 Wireless Controller for Windows;11.41486276
+Controller (Xbox One For Windows);;0x045E;0x02D1;0x0000;Microsoft Xbox One Controller old bumpers (dongle);7.065318958
+Controller (Xbox One For Windows);;0x045E;0x02DD;0x0000;Microsoft Xbox One Controller new bumpers (dongle);7.065318958
+Xbox Bluetooth Gamepad;Microsoft Corporation;0x045E;0x02E0;0x0000;Microsoft Xbox One S controller (bluetooth);7.574600458
+Controller (Xbox One For Windows);;0x045E;0x02E3;0x0000;Microsoft Xbox Elite (v1) controller;
+Controller (Xbox One For Windows);;0x045E;0x02EA;0x0000;Microsoft Xbox One S Controller (dongle);7.065318958
+Controller (Xbox One For Windows);;0x045E;0x02F3;0x0000;Unknown Xbox One version (potentially not original);
+Controller (Xbox One For Windows);;0x045E;0x02FF;0x0000;Microsoft Xbox One S Controller (wired) or any impersonating ones;6.737799039
+Controller (Xbox One For Windows);;0x045E;0x0B00;0x0000;Microsoft Xbox Elite Series 2 (dongle);7.316845772
+Controller (Xbox One For Windows);;0x045E;0x0B02;0x0000;Microsoft Xbox Elite Series 2 (wired);6.851319958
+Xbox Bluetooth Gamepad;Microsoft Corporation;0x045E;0x0B05;0x0000;Microsoft Xbox Elite Series 2 (bluetooth);10.17749873
+Controller (Xbox One For Windows);;0x045E;0x0B12;0x0000;Microsoft Xbox One X Controller (dongle);5.887782958
+;;0x045E;0x0B13;0x0505;Microsoft Xbox One X Controller (bluetooth);12.03005096
+Controller (Gamepad F310);;0x046D;0xC21D;0x0000;Logitech F310;
+USB Receiver;Logitech;0x046D;0xC52B;0x1210;maybe wireless Logitech controller?;
+USB Receiver;Logitech;0x046D;0xC53F;0x4400;maybe wireless Logitech controller?;
+PLAYSTATION(R)3 Controller;Sony;0x054C;0x0268;0x0100;Sony DualShock 3;11.83362597
+Wireless Controller;Sony Computer Entertainment;0x054C;0x05C4;0x0100;DualShock 4 v1 (wired);13.88092293
+Wireless Controller;Sony Computer Entertainment;0x054C;0x05C4;0x0116;DualShock 4 v1 (bluetooth?);4.258553848
+Wireless Controller;Sony Interactive Entertainment;0x054C;0x05C5;0x0100;STRIKEPAD PS4 Grip Add-on;
+Wireless Controller;Sony Interactive Entertainment;0x054C;0x09CC;0x0000;Sony DualShock 4 v2 (bluetooth);3.085233958
+Wireless Controller;Sony Interactive Entertainment;0x054C;0x09CC;0x0100;Sony DualShock 4 v2 (wired);10.03203638
+Wireless Controller;Sony Interactive Entertainment;0x054C;0x0CE6;0x0000;Sony DualSense (bluetooth);4.932147458
+Wireless Controller;Sony Interactive Entertainment;0x054C;0x0CE6;0x0100;Sony DualSense (wired);7.194034958
+Wireless Gamepad;Nintendo;0x057E;0x2009;0x0000;Nintendo Switch Pro Controller (bluetooth);11.70208381
+Pro Controller;Nintendo Co., Ltd.;0x057E;0x2009;0x0200;Nintendo Switch Pro Controller (wired);19.39770958
+Controller (XBOX 360 For Windows);;0x0581;0x0106;0x021A;Unknown Controller;
+USB Gamepad          ;;0x0810;0x0001;0x0106;PS1/PS2 adapter;
+NVIDIA Controller v01.04;NVIDIA Corporation;0x0955;0x7214;0x0525;NVIDIA SHIELD Controller v01.04;
+Controller (Afterglow Gamepad for Xbox 360);;0x0E6F;0x0213;0x0000;Afterglow Gamepad for Xbox 360;
+Controller (Wired Controller for Xbox 360);;0x0E6F;0x0501;0x0000;Hi-TEC Essentials Wired Gamepad;
+SteelSeries Stratus XL;SteelSeries;0x1038;0x1418;0x0145;SteelSeries Stratus XL (wired);13.56576427
+Controller (XBOX 360 For Windows);;0x1038;0x1710;0x0068;Incorrect product id Xbox 360;
+Controller (Revolution Pro Controller 3);;0x146B;0x0611;0x0000;Nacon Revolution Pro Controller 3;
+Controller (XBOX 360 For Windows);;0x1532;0x008A;0x0101;Unknown Razer;
+Razer Raiju Tournament Edition Wired;Razer;0x1532;0x1007;0x0101;Razer Raiju Tournament Edition Wired;
+Controller (Afterglow Gamepad for Xbox 360);;0x24C6;0xFAFD;0x0000;Afterglow Gamepad for Xbox 360;
+Valve;Valve Software;0x28DE;0x1102;0x0100;Valve Steam Controller (wired);7.390166042
+;;0x28DE;0x1106;0x0001;Valve Steam Controller (bluetooth);14.83713175
+Steam Controller;Valve Software;0x28DE;0x1142;0x0001;Valve Steam Controller (dongle);12.4105095
+SCUF Controller;SCUF Gaming;0x2E95;0x7725;0x0525;Unspecified Scuf Controller ;
+Controller (XBOX 360 For Windows);;0x8087;0x0A1E;0x0200;Unknown probably Bluetooth controller;
+ASTRO C40;ASTRO Gaming;0x9886;0x0024;0x0078;Astro C40;
